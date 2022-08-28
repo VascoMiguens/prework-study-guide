@@ -1,0 +1,48 @@
+[33mcommit 13c736b344be2c08615de33b17c66c7be316b5cd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cd149a2 36fb8c6
+Author: VascoMiguens <43990609+VascoMiguens@users.noreply.github.com>
+Date:   Sun Aug 28 16:11:58 2022 +0100
+
+    Merge pull request #7 from VascoMiguens/feature/add-html
+    
+    Added HTML code to application
+
+[33mcommit 36fb8c6122b05a7599332a32448dd58cbc8409d0[m[33m ([m[1;31morigin/feature/add-html[m[33m)[m
+Merge: ed3a25c cd149a2
+Author: VascoMiguens <v_miguens@hotmail.com>
+Date:   Sun Aug 28 15:54:36 2022 +0100
+
+    added code to HTML file
+
+[33mcommit ed3a25c745d1ba07ffa177fe5e2e09bb40f28682[m
+Author: VascoMiguens <v_miguens@hotmail.com>
+Date:   Sun Aug 28 15:45:36 2022 +0100
+
+    added code to HTML file
+
+[33mcommit ada863ac6af767e6f8e5b3c69a041fae2ed81bb8[m
+Author: VascoMiguens <v_miguens@hotmail.com>
+Date:   Sun Aug 28 15:43:11 2022 +0100
+
+    added code to HTML file
+
+[33mcommit cd149a2cdd1fb95cdc4507593ac3bd629ef8ee5b[m[33m ([m[1;32mfeature/add-html[m[33m)[m
+Merge: 675a6bb 319b3ba
+Author: VascoMiguens <43990609+VascoMiguens@users.noreply.github.com>
+Date:   Fri Aug 26 14:11:41 2022 +0100
+
+    Merge pull request #6 from VascoMiguens/feature/starter-code
+    
+    Add starter code for Prework project
+
+[33mcommit 319b3bafc08e26cf207a7e5adf312d3370eb20f7[m[33m ([m[1;31morigin/feature/starter-code[m[33m, [m[1;32mfeature/starter-code[m[33m)[m
+Author: VascoMiguens <v_miguens@hotmail.com>
+Date:   Fri Aug 26 14:05:07 2022 +0100
+
+    add starter code
+
+[33mcommit 675a6bb2d96531f85f4ebf523e17313b7f9638f5[m
+Author: VascoMiguens <43990609+VascoMiguens@users.noreply.github.com>
+Date:   Wed Aug 24 14:11:13 2022 +0100
+
+    Initial commit
