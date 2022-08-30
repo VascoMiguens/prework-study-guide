@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- This project was created for boot camp students who were going through the Prework. It is a simple way for the students to save notes for later review as the course continues. Students learn the basics of web development while they build their first web app. It contains notes on HTML, CSS, Git, and JavaScript
+This project was created for boot camp students who were going through the Prework. It is a simple way for the students to save notes for later review as the course continues. Students learn the basics of web development while they build their first web app. It contains notes on HTML, CSS, Git, and JavaScript
 
 ## Installation
 
